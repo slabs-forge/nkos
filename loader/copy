@@ -1,0 +1,3 @@
+#!/bin/bash
+../util/nkloader-install nkloader.bin ../hd.img {a74bc752-b323-47d9-b2c9-c9dcdef0c470}/boot/kernel
+

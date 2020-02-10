@@ -1,0 +1,4 @@
+#!/bin/bash
+../util/mkimage boot/start.bin kernel.bin kernel
+cp kernel ../hd/boot/kernel
+

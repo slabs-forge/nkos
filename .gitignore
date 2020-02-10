@@ -1,0 +1,15 @@
+.dep
+.obj
+*.a
+*.elf
+*.bin
+*.sym
+*.o
+hd.img
+util/mbr-install
+util/nkloader-install
+util/mkimage
+loader/.lib
+loader/core
+hd
+kernel/kernel
